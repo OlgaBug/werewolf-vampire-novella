@@ -20,3 +20,6 @@ __pycache__/
 # Логи и настройки
 *.log
 .env
+
+# Sphinx
+docs/build/
